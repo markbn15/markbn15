@@ -49,9 +49,9 @@ Soy un desarrollador apasionado por la convergencia entre el **software de alto 
 | **Cloud & IaC** | `AWS` `Terraform` |
 
 #### IA & Productividad
-- **Codificación Asistida:** `GitHub Copilot` `Cursor`
+- **Codificación Asistida:** `GitHub Copilot` `Cursor` `OpenCode` `DeepSeek Harness` `Antigravity`
 - **Testing de APIs:** `Postman`
-- **Control de Versiones:** `Git`
+- **Control de Versiones:** `Git` `GitHub`
 
 ---
 
